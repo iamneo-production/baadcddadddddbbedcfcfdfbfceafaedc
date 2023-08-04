@@ -1,7 +1,7 @@
+package com.examly.springapp.repository;
 import com.examly.springapp.entity.*;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import org.examly.springapp.service.*;
 import java.util.Optional;
  
 @Repository
